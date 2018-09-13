@@ -33,5 +33,5 @@ euclidean <- function(a,b){
       b <- t
     }
   }
-  return(t)
+  return(abs(t))
 }
