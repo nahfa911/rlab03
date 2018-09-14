@@ -108,3 +108,5 @@ dijkstra <- function(graph, init_node) {
   return (result)
 }
 
+#' @importFrom plyr join
+NULL
