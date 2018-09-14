@@ -11,10 +11,4 @@ data(wiki_graph)
 \description{
 This is wiki_graph for testing dijkstra function.
 }
-\references{
-\url{data_blah.com}
-}
-\author{
-Min-Chun \email{mcshihs@gmail.com}
-}
 \keyword{datasets}
